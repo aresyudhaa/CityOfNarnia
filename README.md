@@ -1,4 +1,4 @@
-# CityOfNarnia
+# City Of Narnia
 
 # *WIP Description*
 City Of Narnia adalah sebuah project game unity 3d yang bergenre RPG , yang bercerita dimana sang karakter utama "nama pemain masing-masih" tiba-tiba bangun disebuah pulau misterius yang berisikan banyak arsitektur kuno,pemain akan bertahaan hidup dan membongkar segala misteri yang ada di pulau misterius ini.
